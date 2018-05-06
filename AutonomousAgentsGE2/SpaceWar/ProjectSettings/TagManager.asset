@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EF_Fighter
+  - Zion_Gundam
+  - EF_Gundam
+  - Zion_BossGundam
+  - Cam_0
+  - Cam_2
+  - Cam_1
+  - Cam_EF_Fighter_0
+  - Cam_EF_Fighter_1
+  - Cam_EF_Fighter_2
+  - Cam_EF_Gundam
+  - Cam_EF_Mothership
+  - Cam_Zion_Boss_Gundam
+  - Cam_Zion_Gundam_0
+  - Cam_Zion_Gundam_1
+  - Cam_Zion_Gundam_2
+  - Cam_Zion_Mothership
+  - ClosePortalTrigger
+  - Render_Zion_Mothership_Trigger
+  - Zion_Mothership
+  - EF_Mothership
+  - Bullet_Zion_MotherShip
+  - Bullet_EF_Mothership
+  - Bullet_Zion_Gundam
+  - Bullet_Zion_Gundam_Boss
+  - Bullet_EF_Fighter
+  - Bullet_EF_Gundam
+  - A
+  - B
+  - C
+  - Earth
+  - Dialogue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
